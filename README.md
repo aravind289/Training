@@ -1,2 +1,2 @@
 # Training
-Only for training purpose
+Only for saving training files
